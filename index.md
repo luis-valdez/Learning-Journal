@@ -10,9 +10,9 @@ This week was very productive and filled in with a lot of learning I had the cha
 - Self-Trascendence.
 - Creative Thinking.
 - Achieving Progress.
-- Master a Skill
-- Be a Badass Dev
-- Other Cool Stuff
+- Master a Skill.
+- Be a Badass Dev.
+- Other Cool Stuff.
 
 We have a lot of ground to cover so get ready to get a peek about everything I learned this week. I hope you enjoy it as much as I did.
 
