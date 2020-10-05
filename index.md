@@ -120,7 +120,7 @@ He also had some hacks to boost creativity:
 - When you're stuck working in a team, invert the problem. This is about coming in a brainstorm with the worst possible ideas, this will break the ice and provide you a fresh moment to re-invert the problem.
 - Partner Up. A lot of legends have partners, why wouldn't you?
 - Fail. If you're willing to fail, you won't be afraid of tackling bigger problems. And bigger problems are what you need for growth.
-> *The first draft of anything is sh!t* -Ernest Hemmingway
+> *"The first draft of anything is sh!t."* -Ernest Hemmingway
 
 ***
 ###[How Progress Really Happens](https://www.youtube.com/watch?v=f2QEUIX18Ik)
