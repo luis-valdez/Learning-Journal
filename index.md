@@ -208,7 +208,7 @@ The last point is my main takeaway, next time I try to learn something I will ex
 
 ***
 ### Others
-Besides all the readings and videos I learned about other stuff thanks to my menthors, talks from Encora people, and the lightning talks from my menthors. Here are some of the things I learned in no particular order.
+Besides all the readings and videos I learned about other stuff thanks to my menthors, talks from Encora people, and the lightning talks from my fellow interns. Here are some of the things I learned in no particular order.
 
 - Scrum has a lot of meetings, called ceremonies. Each one of them serve different purposes.
 - Data Science is statistics in steroids.
