@@ -64,7 +64,7 @@ During the course of this short chapter of the Linux Shell I learned about sever
 `chmod` change the permissions of a file (rwx).
 `sed` find a specific pattern in a string. I guess this is like some kind of rejex but for the terminal.
 
-###[X Work Flow](https://docs.google.com/document/d/1v4v2CJlwBWaDk2GNS9UyyGmKzq9-w386UL7C7UYmX00/pub?urp=gmail_link&gxids=7628)
+### [X Work Flow](https://docs.google.com/document/d/1v4v2CJlwBWaDk2GNS9UyyGmKzq9-w386UL7C7UYmX00/pub?urp=gmail_link&gxids=7628)
 In this article the author proposes a methodology for solving tickets and working on software development.
 These are my main takeaways:
 
