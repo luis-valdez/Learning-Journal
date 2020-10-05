@@ -124,3 +124,54 @@ He also had some hacks to boost creativity:
 
 ***
 ###[How Progress Really Happens](https://www.youtube.com/watch?v=f2QEUIX18Ik)
+Sometimes we want to do major changes but we don't know how can we actually have an impact in whatever we're doing. This video is perfect for anyone who wants to learn about having real impact in your environment. Here are some bullet points:
+
+**Change**
+Of course to provide progress you need to change something, but how do humans feel about change?
+- It creates work, so we don't like it.
+- People tend to resist it.
+- It puts you at risk
+- We only do it when things are unpleasant enough.
+- For change you need power.
+- For power you can use persuasion.
+- You'll need to anticipate what you'll need to make change happen.
+
+**The playbook for change**
+Here are some general steps to follow for someone who seeks change:
+1. Make a Pilot and show it to gain support.
+2. Find allies based on that pilot.
+3. Find resources.
+4. Scale it up until it becomes the real thing.
+
+**Another extra points for managers:**
+- Managers should facilitate the execution of the playbook for their employees.
+- Be careful what kind of behavior you reward as a manager. If you seek people making improvements, you can't reward people who only agree with you.
+
+I find this particularly interesting, because I think that Encora as a company offers you this non conventional way of making change inside without actually having to struggle as much as you would in another company, this is thanks to the power dynamic that's implemented with the LTs.
+
+***
+### [How To Master Anything](https://www.youtube.com/watch?v=uoUHlZP094Q)
+This short video resumes a book that talks about how you need to practice more effectively in order to master an hability. Here I'll present some interesting points:
+
+- If you settle you'll stop improving. This just means that if you think already good enough, you'll stop seeking for change.
+- Mental representations are models we build in our minds in order to recreate things before doing them.
+- Deliberate practice is needed to build mental representations.
+- Effective Practice, this is about recognizing what you can and can't do yet.
+
+The cycle of practice:
+Rapid progress >> Hitting a perceived limit >> Prolonged frustration >> Sudden breaktrough
+
+To give a concrete example of this: 
+Imagine you start learning how to code, you start learning a lot about declaring variables, printing strings in the console and maybe even some if statements, but suddenly you reach a chapter of Object Oriented Programming and you can't really wrap your head around it. It starts to get really frustrating, you read it and re-read it and it just don't makes any sense. Until suddenly you're able to find a different perspective and understand it. This goes on until you hit you're new limit.
+
+In the video we can learn about something called **Purposeful Practice** to improve the way we Practice. It goes like this.
+1. Have an specific goal.
+2. Put intense focus on that goal.
+3. Get immediate feedback about your performance.
+4. Be in frequent discomfort with your level of expertise.
+
+And if you want to take this to the next level and reach **Deliberate Practice** there's a simple formula:
+Purposeful Practice + Expert Coaching = Deliberate Practice.
+
+***
+### [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM&feature=youtu.be)
