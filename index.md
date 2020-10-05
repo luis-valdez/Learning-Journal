@@ -42,10 +42,54 @@ To be honest I've never heard of Professor John Ousterhout before this read, but
 - The three most powerful words for building credibility are "I don't know". Of course! Makes a lot of sense to me now, being able to admit you don't know stuff will make you more credible for when you actually know.
 - Coherent systems are inherenyly unstable. I find some beauty in this, the world is chaotic and we as humans are always trying to make things our way, to have our stuff stacked and organized. But entropy always strike, no matter what you do. You have to be in peace with this, and understand that things are going to fail at some point.
 
-###[Ideas are just a multiplier of execution](https://sive.rs/multiply)
+### [Ideas are just a multiplier of execution](https://sive.rs/multiply)
 This one was a really short one, but powerful. I'll try to resume it in one phrase:
 
 > Ideas are worth nothing by themselves, they become worthy when executed.
 
 This reminds me of a meme:
 ![cool meme](https://i.kym-cdn.com/photos/images/facebook/001/225/622/16e.png)
+I think almost everyone is familiar with this experience at some stage of their lives, having a lot of ideas but not actually executing any of them. And we all know how that ends... Let's try to avoid it.
+
+### [Missing Semester: The Linux Shell](https://missing.csail.mit.edu/2020/course-shell/)
+I find very interesting how most of CS or SWE students can agree how there are some essential or very important topics that were never really thaught formally to us. For me, this is one of them.
+During the course of this short chapter of the Linux Shell I learned about several commands:
+
+**THIS IS WHAT I UNDERSTOOD FROM EXECUTING THIS COMMANDS AND NOT THE FORMAL DEFINITION. IT CAN BE WRONG.** 
+
+`mkdir` create a directory
+`touch` create a file
+`cat` see what it's inside a file and print it in the console.
+`man` inspect a command and see what it actually does. Trust those guys, not me.
+`chmod` change the permissions of a file (rwx).
+`sed` find a specific pattern in a string. I guess this is like some kind of rejex but for the terminal.
+
+###[X Work Flow](https://docs.google.com/document/d/1v4v2CJlwBWaDk2GNS9UyyGmKzq9-w386UL7C7UYmX00/pub?urp=gmail_link&gxids=7628)
+In this article the author proposes a methodology for solving tickets and working on software development.
+These are my main takeaways:
+
+- The whole process is not expected to be done by one person, but everyone on the theam should be aware of the process.
+
+**Discovery**
+- Discover what's wrong or what you want to change, this can be a bug.
+- Understand your system.
+- Identify when the problem was introduced, what variables have changed in the mean time.
+- Use the data you have to test ideas of the possible solution/problem.
+
+**Hypothesis Generation**
+- Explain in one sentence what is going on.
+- Make a set of protocols to replicate your observations.
+
+**Problem Definition**
+- Define your problem in one sentence.
+
+**Search for solutions**
+- Many problems are already resolved. Use the internet.
+- Brainstorm to come up with ideas.
+
+**Modeling**
+- Make a simplified version of the soultion (Prototype).
+- Make a document with the solution step by step.
+- Write the limitations, hypothesis and black box modeling of the solution.
+
+### [Religion, evolution, and the ecstasy of self-transcendence](https://www.youtube.com/watch?v=2MYsx6WArKY)
