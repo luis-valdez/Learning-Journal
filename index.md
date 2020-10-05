@@ -1,6 +1,21 @@
 ## Week 2 - 27/09/2020 to 02/10/2020
 
 ### Overview
+This week was very productive and filled in with a lot of learning I had the chance to learn about:
+- Communication Skills.
+- What things make a good software engineer.
+- Ideas and their value.
+- The Linux Shell.
+- The Work Flow to work in software issues.
+- Self-Trascendence.
+- Creative Thinking.
+- Achieving Progress.
+- Master a Skill
+- Be a Badass Dev
+- Other Cool Stuff
+
+We have a lot of ground to cover so get ready to get a peek about everything I learned this week. I hope you enjoy it as much as I did.
+
 ***
 ### [How To Talk To Anyone](https://sive.rs/book/HowToTalkToAnyone)
 
@@ -210,6 +225,6 @@ For example a lot of resources rely on the idea that you have to admit ignorance
 
 I'm starting my own idea journal, and so far I like it. Gives me an easy way out to write all my random ideas that can be either garbage or in someway useful. Eitherway I don't have to decide in the moment I can revisit them later and classify.
 
-**Note to self** from next week I will try to write in this blog as I absorb every individual content. This week I writted all of it at the end based on my notes. But I think I can make deeper insights if I write the blog post when I have it fresh in my memorie.
+**Note to self** from next week I will try to write in this blog as I absorb every individual content. This week I writted all of it at the end based on my notes. But I think I can make deeper insights if I write the blog post when I have it fresh in my memory.
 
 That's all from this week I hope you enjoyed it and that you didn't get bored, thanks for reading :).
