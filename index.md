@@ -123,7 +123,7 @@ He also had some hacks to boost creativity:
 > *"The first draft of anything is sh!t."* -Ernest Hemmingway
 
 ***
-###[How Progress Really Happens](https://www.youtube.com/watch?v=f2QEUIX18Ik)
+### [How Progress Really Happens](https://www.youtube.com/watch?v=f2QEUIX18Ik)
 Sometimes we want to do major changes but we don't know how can we actually have an impact in whatever we're doing. This video is perfect for anyone who wants to learn about having real impact in your environment. Here are some bullet points:
 
 **Change**
@@ -153,7 +153,7 @@ I find this particularly interesting, because I think that Encora as a company o
 ### [How To Master Anything](https://www.youtube.com/watch?v=uoUHlZP094Q)
 This short video resumes a book that talks about how you need to practice more effectively in order to master an hability. Here I'll present some interesting points:
 
-- If you settle you'll stop improving. This just means that if you think already good enough, you'll stop seeking for change.
+- If you settle you'll stop improving. This just means that if you think you're already good enough, you'll stop seeking for change.
 - Mental representations are models we build in our minds in order to recreate things before doing them.
 - Deliberate practice is needed to build mental representations.
 - Effective Practice, this is about recognizing what you can and can't do yet.
