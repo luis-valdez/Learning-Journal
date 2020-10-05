@@ -57,12 +57,12 @@ During the course of this short chapter of the Linux Shell I learned about sever
 
 **THIS IS WHAT I UNDERSTOOD FROM EXECUTING THIS COMMANDS AND NOT THE FORMAL DEFINITION. IT CAN BE WRONG.** 
 
-Create a directory `mkdir`
-Create a file `touch` 
-See what it's inside a file and print it in the console. `cat` 
-Inspect a command and see what it actually does. Trust those guys, not me. `man` 
-Change the permissions of a file (rwx). `chmod` 
-Find a specific pattern in a string. I guess this is like some kind of rejex but for the terminal. `sed` 
+- Create a directory `mkdir`
+- Create a file `touch` 
+- See what it's inside a file and print it in the console. `cat` 
+- Inspect a command and see what it actually does. Trust those guys, not me. `man` 
+- Change the permissions of a file (rwx). `chmod` 
+- Find a specific pattern in a string. I guess this is like some kind of rejex but for the terminal. `sed` 
 
 ### [X Work Flow](https://docs.google.com/document/d/1v4v2CJlwBWaDk2GNS9UyyGmKzq9-w386UL7C7UYmX00/pub?urp=gmail_link&gxids=7628)
 In this article the author proposes a methodology for solving tickets and working on software development.
