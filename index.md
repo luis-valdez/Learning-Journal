@@ -175,3 +175,41 @@ Purposeful Practice + Expert Coaching = Deliberate Practice.
 
 ***
 ### [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM&feature=youtu.be)
+This one was one of my favorite contents for this week, because it talked about how we came become more powerful learners.
+My main takeaways were:
+- Every dev has a different answer to what you *must* know to be a good software engineer.
+- You need to learn fast rather than know a lot.
+- We are often mistaken by humanoids. Our habilites and energy are finite.
+- We have to be careful with how we manage cognitive resources. Just thinking about something can drain you.
+
+And now the good stuff, how to actually get better:
+- First understand that tasks you perform go into one of 3 categories: A) Can't do but need to, B) Can do with effort, C) You master the task.
+- If things pile up in B: Try to keep more stuff in A. Split into subskills so you can move more things to C.
+- Your habilitis that you take for granted in C can not be optimal. Move back things to B if necessary and refactor them.
+- You need to move things from A to B and from B to C.
+- To achieve the previous point: Get a lot of high-quality examples of the skill you want to master, for a rule of thumb, about 200 of good exposures in a short ammount of time.
+
+The last point is my main takeaway, next time I try to learn something I will expose myself to a lot of code or examples from experts. According to the theory this will help my brain to eventually identify the pattern that I want to accomplish and be able to master the skill by myself.
+
+***
+### Others
+Besides all the readings and videos I learned about other stuff thanks to my menthors, talks from Encora people, and the lightning talks from my menthors. Here are some of the things I learned in no particular order.
+
+- Scrum has a lot of meetings, called ceremonies. Each one of them serve different purposes.
+- Data Science is statistics in steroids.
+- GraphQL is a very powerful form of API. Before I had only the chance to work with REST APIs.
+- There are several good practices when coding, among them are: write good comments, give good name to your variables, and try to follow the same conventions in your code.
+- Machine Learning and Neural Networks are a hard think to grasp.
+- Encorians do a lot of parties when there is no pandemic.
+- Markdown is a very powerful but simple tool for writting articles. I like it.
+
+***
+###Conclusions and Main Takeaways
+There was a lot of content to absorb this week, and I really enjoyed learning from it, I think that I now perceive myself as a softskill enthusiast. This is because I'm becoming to realize how powerful this can be for personal growth. Also I like how a lot of things for self-improvement are kind of interconnected. Like there's some common agreement on good practices regarding to softskills.
+For example a lot of resources rely on the idea that you have to admit ignorance and make yourself vulnerable, it comes interconnected with ideas like get out of the comfort zone or to push your limits. I'll call it the softskill multi-verse.
+
+I'm starting my own idea journal, and so far I like it. Gives me an easy way out to write all my random ideas that can be either garbage or in someway useful. Eitherway I don't have to decide in the moment I can revisit them later and classify.
+
+**Note to self** from next week I will try to write in this blog as I absorb every individual content. This week I writted all of it at the end based on my notes. But I think I can make deeper insights if I write the blog post when I have it fresh in my memorie.
+
+That's all from this week I hope you enjoyed it and that you didn't get bored, thanks for reading :).
