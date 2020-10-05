@@ -219,7 +219,7 @@ Besides all the readings and videos I learned about other stuff thanks to my men
 - Markdown is a very powerful but simple tool for writting articles. I like it.
 
 ***
-###Conclusions and Main Takeaways
+### Conclusions and Main Takeaways
 There was a lot of content to absorb this week, and I really enjoyed learning from it, I think that I now perceive myself as a softskill enthusiast. This is because I'm becoming to realize how powerful this can be for personal growth. Also I like how a lot of things for self-improvement are kind of interconnected. Like there's some common agreement on good practices regarding to softskills.
 For example a lot of resources rely on the idea that you have to admit ignorance and make yourself vulnerable, it comes interconnected with ideas like get out of the comfort zone or to push your limits. I'll call it the softskill multi-verse.
 
