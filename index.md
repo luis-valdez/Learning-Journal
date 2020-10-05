@@ -1,4 +1,4 @@
-#Learning Journal
+# Learning Journal
 
 ##Week 2 - 27/09/2020 to 02/10/2020
 
