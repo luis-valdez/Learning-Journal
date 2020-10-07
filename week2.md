@@ -1,3 +1,5 @@
+### [Go back to index](https://luis-valdez.github.io/Learning-Journal/)
+
 ## Week 2 - 27/09/2020 to 02/10/2020
 
 ### Overview
