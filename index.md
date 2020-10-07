@@ -1,1 +1,1 @@
-### [Week 2](https://luis-valdez.github.io/Learning-Journal/week1)
+### [Week 2](https://luis-valdez.github.io/Learning-Journal/week2)
