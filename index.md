@@ -1,1 +1,4 @@
+# Welcome to my Learning Journal
+This journal is part of an Internship by Encora. The goal of this journal is to write about everything that I learn week to week, reflect about all this knowledge that I'm absorbing and give my own insights about these different topics.
+You're welcome to join me in this journey :D.
 ### [Week 2](https://luis-valdez.github.io/Learning-Journal/week2)
