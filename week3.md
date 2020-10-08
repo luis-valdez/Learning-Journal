@@ -62,4 +62,23 @@ This video was a little hard to grasp. So I will proceed to write everything I u
 - It's used in very common things that I use, such as: GitZip, Winrar and 7zip.
 
 ***
-### []()
+### [Markov Chain Compression](https://www.youtube.com/watch?v=05RFEGWNxts)
+
+***
+### [The Art of Organization Manipulation](https://www.youtube.com/watch?v=OTCuYzAw31Y)
+The goal of this talk can be resummed in 3 bulletpoints:
+- How the ideal working environment should be.
+- How the working environment actually is in some places (not great)
+- How to work on a not so great environment
+
+Basically this great environment should be a place were employees have the freedom to take the initiative and where managers facilitate the work of their employees, all of this while maintaining good communication between all parties.
+
+Of course most of us would love to work in a place like this, but Brian and Ben know that it's not possible for everyone.
+A lot of people work in a place where is kind of the opposite I described above (especially big corporations). Having initiative and taking risks isn't really appreciated as much as giving the impression that you're doing a lot without actually doing much. You are at the company to please the manager, the employees can be burdened with unrealistic expectations. And generally there is a directional chaos between 7 different bosses.
+
+The described above was the worst possible scenario, so in reality people will end up working in a combination of the two previous described work places. There are some things you can do to change this, among them are:
+- Ask for forgiveness, not permission. If you want to implement something you can just do it and see how people respond to it, of course make sure you can make it reversable so you won't lose your job.
+- Always wonder how people are perceiving your actions. This is an important part that sometimes we don't realize because we don't like getting involved in politics, but it's necessary for climbing the ladder in a company like this.
+- Get in front of people. Be known. This can be specially hard for people that can be passive, If I was in a big company I will be facing this problem because I don't love the idea of being the center of attention.
+
+All this talk made me reflect a lot about how the software industry works in Mexico, because I think that around 99% of the companies tend to be like the crappy company described (remember 75% of statistics are made up). Of course this is anecdothical from what I've heard/read, but still I think there's a lot of room of improvement in the way that companies (specially big ones) operate. But to be honest I don't know if this idea is too naive because I'm just starting my career. Anyway I like to stay in the positive side of things.
