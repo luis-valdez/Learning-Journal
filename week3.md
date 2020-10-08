@@ -53,3 +53,13 @@ The other way we can do this is by taking the account the frequency of each lett
 This is to avoid the confusion when decoding your stream.
 
 I think is a very good introduction for people who are beginners in this topic, I personally enjoyed learning about how compression works thanks to Variable Length Codes and I will dig deeper in the next video (that's the next topic in this blog).
+
+***
+### [The LZ77 Compression Family](https://www.youtube.com/watch?v=Jqc418tQDkg)
+This video was a little hard to grasp. So I will proceed to write everything I understood in bulletpoints:
+- Considerating adjacency between symbols is important for compression.
+- The LZ77 is a family of tokenization algorithms, that that has been relevant for more than 30 years to date.
+- It's used in very common things that I use, such as: GitZip, Winrar and 7zip.
+
+***
+### []()
