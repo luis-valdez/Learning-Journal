@@ -32,3 +32,24 @@ These are some of my main takeaways:
   3. Compute -> Reduce JS execution time.
 - I really didn't know what was Paint in this concept, but from what I searched is this: Paint is when the web browser creates a visual representation.
 - Browsers cannot paint until critical path is resolved.
+
+***
+###[Variable Length Codes](https://www.youtube.com/watch?v=6rnF2Mo80x0)
+With this video I learned a lot how we encode form characters to binary code, and that this can be done in two ways.
+First, the most simple one is by using an 8 bit number for each letter of the alphabet. Like this:
+
+Encoding:
+```
+A -> 01000001
+```
+
+Decoding:
+```
+01000010 -> B
+```
+
+The other way we can do this is by taking the account the frequency of each letter to assign it a smaller binary number, there are some restrictions we have to follow when doing this. There's something called the 
+**Prefix Property**: once a code has been assigned to a symbol, no other code can start with that pattern.
+This is to avoid the confusion when decoding your stream.
+
+I think is a very good introduction for people who are beginners in this topic, I personally enjoyed learning about how compression works thanks to Variable Length Codes and I will dig deeper in the next video (that's the next topic in this blog).
