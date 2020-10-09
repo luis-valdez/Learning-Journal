@@ -82,3 +82,17 @@ The described above was the worst possible scenario, so in reality people will e
 - Get in front of people. Be known. This can be specially hard for people that can be passive, If I was in a big company I will be facing this problem because I don't love the idea of being the center of attention.
 
 All this talk made me reflect a lot about how the software industry works in Mexico, because I think that around 99% of the companies tend to be like the crappy company described (remember 75% of statistics are made up). Of course this is anecdothical from what I've heard/read, but still I think there's a lot of room of improvement in the way that companies (specially big ones) operate. But to be honest I don't know if this idea is too naive because I'm just starting my career. Anyway I like to stay in the positive side of things.
+
+***
+### [Programming Well With Others: Social Skills for Geeks](https://www.youtube.com/watch?v=q-7l8cnpI4k)
+This particular video is very similar to The Myth of The Genius Programmer. It's made by the same two guys, Ben and Fitz. But there are some interesting points that went over my head in the last video or that weren't in there that I will adress in this section.
+
+**The bus factor:** imagine if a member of a team, that is very specialized in some part of the system gets hit by a bus (I know it sounds bad, but bear with me) what would happen to the team? would there be anyone to be able to deal with the problems that this guy was dealing? That's what the bus factor means, keeping a team that is well rounded and at least has some notions about the system in general. A great way to achieve a big bus factor, is by doing code review, this way you have people checking code for parts of the system that other people wrote and they get to know that part of the system. It's a win-win situation.
+
+**Documentation:** previously, I thought that documentation was only for the functionality of the system. But this video gave me a broader perspective. Documentation can be used as a way of capturing what ideas have already been tried and failed, so in the future if someone wants to try that there's evidence that it won't work, or maybe it can be a starting point to learn what not to do.
+Also they say there are other things that are worth documenting, like cultural behavior, so you can avoid discussions in the future, because there will be an agreement of how things are supposed to work.
+
+**You're not your code.** I really liked this phrase, for me it means that you shouldn't link yourself too emotionally to your code or your project. If you manage to do this, you can take feedback a lot easier because it will allow to don't take criticism personally.
+
+***
+### [Developing Expertise](https://www.infoq.com/presentations/Developing-Expertise-Dave-Thomas/)
