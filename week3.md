@@ -95,4 +95,32 @@ Also they say there are other things that are worth documenting, like cultural b
 **You're not your code.** I really liked this phrase, for me it means that you shouldn't link yourself too emotionally to your code or your project. If you manage to do this, you can take feedback a lot easier because it will allow to don't take criticism personally.
 
 ***
-### [Developing Expertise](https://www.infoq.com/presentations/Developing-Expertise-Dave-Thomas/)
+### [Developing Expertise: Herding Racehorses, Racing Sheep.](https://www.infoq.com/presentations/Developing-Expertise-Dave-Thomas/)
+In this talk Dave Thomas talks about the different levels of expertise that exists for a certain ability. Let's get into that. We have five different levels, from lowest to highest:
+
+1. **Novices:** They're just starting to learn. They need to be told exactly what to do with a lot of detail, but they don't need a lot of context of the bigger picture because they tendo to get scared or overwhelmed with this.
+2. **Advance Beginners:** Similar to the Novices they still need to be told what to do, they tend to get really focused on what they're doing and can't seem to grasp the bigger picture yet. Still they have more experience than the novice.
+3. **Competent:** In this level you start feeling good about yourself, you're starting to feel like you can do things without being told what to do. And that's what you start doing, and by doing so you reach the next level.
+4. **Proficient:** Here you can actually feels like you are going backwards and you can lose that confidence that you gained in the previous level, this is because you start to see the bigger picture and actually realize everything that you don't know.
+5. **Experts:** Finally, the highest level. This are the folks that are always seeking new information. They know how to do most things in their field, but they don't totally understand how exactly they're doing. This is because at this point they have the patterns so deep on their brains, that they start acting and deciding out of intuition.
+
+The lesson about this video is that you shouldn't try everyone the same, everyone is in a different level of this scale. The upper you are the more autonomy and vision of the big picture you need, the lower you are the more detailed instructions and less context you need.
+Personally, right now I feel in level 2, trying to make the transition to level 3. This is because I understand some key concepts and I'm able to work on simple tasks with clear instructions, but I feel that if I'm not told what to do I'll get confused. But of course, as I mentioned, I don't plan on staying in level 2 forever, I'm working very hard each day to eventually become a wizard (expert).
+
+**Side Note:** I realized that Dave Thomas is the author of Pragmatic Programmer, I have been recommended that book many times and I have been wanting to read it for a while now. Maybe it's a sign to start it.
+
+***
+### [Perfection is an Unrealistic Goal](https://www.infoq.com/presentations/Perfection-Is-Unrealistic-Linda-Rising/)
+Linda Rising presents the Agile methodology in a way that makes it sounds so human and so easy to connect. I hope I can transmit a little of her thoughts in here.
+
+First what got my attention the most says how we humans are inherently Agile, because we work in cycles. She gives the example of sleep cycles, how we go from NREM sleep to REM sleep, and how we tend to sleep in 90 minutes cycles. She also happens to believe that the same phenomenon happens during daytime. She gives the example of this guy that worked in 90 minutes cycles and rested 30 minutes, and achieved a great productivity and how this also was backed by some studies.
+
+I personally connected a lot with I just described because of 2 reasons:
+1) Right now I'm reading a book called Why We Sleep that its written by a neuroscientist and talks about sleep and tries to demistify it, so the sleep cycles are something that I've read before.
+2) I practice the Pomodoro Technique which is working 25 min and resting 5 min. But naively, I've never thought about how this had to do with sleep cycles and much less about how it had to do anything with agile.
+
+So that's mind blowing for me, we started doing agile because evolution itself made us beings that tend to work or function in cycles. So unconsciously we decided to "invent" a whole methodology based in what was our inherent behavior all along.
+
+Another amazing fact is that this video is connected to the "Making Badass Developers", from last week, and "Developing Expertise" videos from this week. And here is why, in MBD the author talked about how we have to get at least 200 exposures and our brain will pick up the pattern eventually without us knowing. Developing Expertise, sayed that experts don't really know how they get the knowledge, they just follow instinct and they're usually right. And to wrap up, here Linda says that there was an experiment where people were tested to see how much time it took for them to respond to a random light on a screen; eventually people began to know where was the light. Eventually scientists figured out that the people were solving their algoritm in their heads, but the thing is that they didn't realized it. They did it unconsciously.
+
+![mind=blown](https://media.tenor.com/images/2e2f908309dd8a576d1193506c16f147/tenor.gif)
