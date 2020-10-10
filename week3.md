@@ -147,5 +147,7 @@ Previously to this video I had the chance to read about the work from Carol Dwec
 ###[Collaboration, Bonobos and The Brain](https://www.infoq.com/interviews/linda-rising-agile-bonobos/)
 Similar to previous talks, Linda remarks the idea that the conscious mind is only a small part of our brain. Most brain-power is contained in our unconscious mind, according to Linda.
 With this premise she says that when facing a difficult decision you should gather a lot of information, then you should sleep on it and your subconscious will take care of working out the data for you.
+
 Also she says that, similar to the bonobos,  we work better in small groups of people (10 max). And I have personally experienced this, once in university I had to work in a team of about 35 people in the same project. It didn't went out pretty well.
-Finally, another interesting idea mentioned, is that similar to bonobos we can have great benefits by 'pairing', in the case of the software industry this would mean the pair programming. And this is also mentioned a lot by Ben and Fitz, that a simple lunch with your co-workers can improve a lot performance. I think this is pretty logical, if you feel good with your team and you realize that they're humans, you'll create a nice atmosphere and will be able to work better together.
+
+Similar to bonobos we can have great benefits by 'pairing', in the case of the software industry this would mean the pair programming. And this is also mentioned a lot by Ben and Fitz, that a simple lunch with your co-workers can improve a lot performance. I think this is pretty logical, if you feel good with your team and you realize that they're humans, you'll create a nice atmosphere and will be able to work better together.
