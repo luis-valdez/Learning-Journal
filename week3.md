@@ -144,10 +144,22 @@ To illustrate this, I really like this comic from Calvin and Hobbes:
 Previously to this video I had the chance to read about the work from Carol Dweck Regarding Growth Mindset, and it really changed the way I thing. I strongly recommend whoever si reading this to check this [Ted Talk](https://www.youtube.com/watch?v=_X0mgOOSpLU).
 
 ***
-###[Collaboration, Bonobos and The Brain](https://www.infoq.com/interviews/linda-rising-agile-bonobos/)
+### [Collaboration, Bonobos and The Brain](https://www.infoq.com/interviews/linda-rising-agile-bonobos/)
 Similar to previous talks, Linda remarks the idea that the conscious mind is only a small part of our brain. Most brain-power is contained in our unconscious mind, according to Linda.
 With this premise she says that when facing a difficult decision you should gather a lot of information, then you should sleep on it and your subconscious will take care of working out the data for you.
 
 Also she says that, similar to the bonobos,  we work better in small groups of people (10 max). And I have personally experienced this, once in university I had to work in a team of about 35 people in the same project. It didn't went out pretty well.
 
 Similar to bonobos we can have great benefits by 'pairing', in the case of the software industry this would mean the pair programming. And this is also mentioned a lot by Ben and Fitz, that a simple lunch with your co-workers can improve a lot performance. I think this is pretty logical, if you feel good with your team and you realize that they're humans, you'll create a nice atmosphere and will be able to work better together.
+
+***
+###[Prejudices](https://www.infoq.com/interviews/Prejudices-Linda-Rising/)
+I'll resume this in one paragraph.
+
+We'll have prejudices against other people. But if we're conscious about those prejudices we can do something about it. Also a good thing to overcoming this first impressions, is putting people to work together, Agile accomplish this with things like pair programming. Once you actually get to know a person and work towards a common goal, it can change a lot about the way you perceive them.
+
+***
+### [Everything is a Remix](https://www.everythingisaremix.info/watch-the-series/)
+
+***
+### [Missing semester: Shell tools and scripting](https://missing.csail.mit.edu/2020/shell-tools/)
