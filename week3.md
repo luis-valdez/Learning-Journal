@@ -124,3 +124,19 @@ So that's mind blowing for me, we started doing agile because evolution itself m
 Another amazing fact is that this video is connected to the "Making Badass Developers", from last week, and "Developing Expertise" videos from this week. And here is why, in MBD the author talked about how we have to get at least 200 exposures and our brain will pick up the pattern eventually without us knowing. Developing Expertise, sayed that experts don't really know how they get the knowledge, they just follow instinct and they're usually right. And to wrap up, here Linda says that there was an experiment where people were tested to see how much time it took for them to respond to a random light on a screen; eventually people began to know where was the light. Eventually scientists figured out that the people were solving their algoritm in their heads, but the thing is that they didn't realized it. They did it unconsciously.
 
 ![mind=blown](https://media.tenor.com/images/2e2f908309dd8a576d1193506c16f147/tenor.gif)
+
+***
+### [The Power of an Agile Mindset](https://www.infoq.com/presentations/power-agile-mindset/)
+Linda bases this talk on the research that exists regarding the Growth Mindset vs Fixed Mindset. So I will start by that, quickly reviewing this types of people.
+
+| Fixed Mindset | Growth Mindset |
+| --- | ----------- |
+| Thinks that skills are static | Believes in growth and improvement |
+| Avoids Hard Challenges (doesn't want to look bad) | Embraces Challenge |
+| Believes that effort is for those who have no talent | Knows that effort is the path to mastery |
+| Presents helplessness against challenge | When challenge comes up, so does resilience. |
+
+Basically, Fixed mindset people believe that the habilities that you have are decided when you born, either you got it or not. Growth mindset on the other way, is the opposite. It believes in improving and that of course you have some innate hability to do something, but that is just one factor; the other one is the ammount of effort that you put in to things.
+To illustrate this, I really like this comic from Calvin and Hobbes:
+
+![Calvin and Hobbes](https://pbs.twimg.com/media/EDNBsXdU8AAkO4E?format=jpg&name=900x900)
