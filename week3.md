@@ -140,3 +140,5 @@ Basically, Fixed mindset people believe that the habilities that you have are de
 To illustrate this, I really like this comic from Calvin and Hobbes:
 
 ![Calvin and Hobbes](https://pbs.twimg.com/media/EDNBsXdU8AAkO4E?format=jpg&name=900x900)
+
+Previously to this video I had the chance to read about the work from Carol Dweck Regarding Growth Mindset, and it really changed the way I thing. I strongly recommend whoever si reading this to check this (Ted Talk)[https://www.youtube.com/watch?v=_X0mgOOSpLU]
