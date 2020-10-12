@@ -153,7 +153,7 @@ Also she says that, similar to the bonobos,  we work better in small groups of p
 Similar to bonobos we can have great benefits by 'pairing', in the case of the software industry this would mean the pair programming. And this is also mentioned a lot by Ben and Fitz, that a simple lunch with your co-workers can improve a lot performance. I think this is pretty logical, if you feel good with your team and you realize that they're humans, you'll create a nice atmosphere and will be able to work better together.
 
 ***
-###[Prejudices](https://www.infoq.com/interviews/Prejudices-Linda-Rising/)
+### [Prejudices](https://www.infoq.com/interviews/Prejudices-Linda-Rising/)
 I'll resume this in one paragraph.
 
 We'll have prejudices against other people. But if we're conscious about those prejudices we can do something about it. Also a good thing to overcoming this first impressions, is putting people to work together, Agile accomplish this with things like pair programming. Once you actually get to know a person and work towards a common goal, it can change a lot about the way you perceive them.
