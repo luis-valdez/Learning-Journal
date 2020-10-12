@@ -220,3 +220,13 @@ history | grep 'python'
 ```
 this will help you find all commands you have executed that include the word python.
 Phew. That was a lot of new commands for me.
+
+***
+### Conclusions and Main Takeaways
+- The subconscious is something very powerful that can be utilized for learning. Once we expose it to patterns, it will start working on figuring out those patterns, and we probably won't know how this happens consciously.
+- Something as simple as having lunch with your peers can help you get in touch with their human side, and this will allow you to get past any prejudices that either of you could have.
+- There are a lot of cool things you can do with bash scripting. I have a lot to learn.
+- Submit yourself to constant feedback loops, is the best way to improve.
+- All ideas are made from other ideas.
+
+That's all for this week folks. I hope you enjoyed reading as much as I enjoyed learning. See you next week :P.
