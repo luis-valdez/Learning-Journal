@@ -5,6 +5,18 @@
 ### Overview
 - The Myth of the Genius Programmer.
 - #PerfMatters
+- Variable Length Codes
+- The LZ77 Compression Family
+- Markov Chain Compression
+- The Art of Organization Manipulation
+- Programming Well With Others
+- Developing Expertise
+- Perfection is an Unrealistic Goal
+- The Power of an Agile Mindset
+- Collaboration, bonobos and The Brain
+- Prejudices
+- Everything is a Remix
+- Shell Tools and Scripting
 
 
 We have a lot of ground to cover so get ready to get a peek about everything I learned this week. I hope you enjoy it as much as I did.
@@ -63,6 +75,13 @@ This video was a little hard to grasp. So I will proceed to write everything I u
 
 ***
 ### [Markov Chain Compression](https://www.youtube.com/watch?v=05RFEGWNxts)
+Same as before, to be honest I didn't fully retain the method of how the Chain Compression algorithm works, but here are my takeaways from the video.
+
+- It's a Data Compresison algorithm.
+- It uses the transition between states to encode the streams.
+- Markov's work started by determining the probability of which letter was next on a specific text.
+- He used something called Associative Probability. It goes like this: *"If it's cloudy today, what are the cances that is going to rain in 2 days?*
+
 
 ***
 ### [The Art of Organization Manipulation](https://www.youtube.com/watch?v=OTCuYzAw31Y)
