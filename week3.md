@@ -160,6 +160,44 @@ We'll have prejudices against other people. But if we're conscious about those p
 
 ***
 ### [Everything is a Remix](https://www.everythingisaremix.info/watch-the-series/)
+This was a pretty cool video to watch, I will probably recommend it to some friends.
+Basically, the idea is that every idea that we have is product of other ideas that other people had in the past. As Isaac Newton said: *"We stand on the shoulders of giants".* Quote that he copied from other guy. There were given many examples were great inventions are copied, to give a few:
+- Music is full of samples
+- Movies are full of copied scenes
+- Inventions like the Mac
+
+The're is also a whole thing going on regarding lawsuits of intellectual property. People are trying to fight and reclaim ideas, there are even people that make a whole bussines out of this. They don't create anything, they just try to make a dollar out of it.
+The conclusion of this, is that in order to improve, we have to copy and transform other ideas. Is something in our nature, is something so present in us, even evolution works that way...
+So, in my opinion, we shouldn't be protective with our ideas and try to be open to the idea of letting other people improve our ideas.
 
 ***
 ### [Missing semester: Shell tools and scripting](https://missing.csail.mit.edu/2020/shell-tools/)
+This week I had the chance to get better with my Shell skills, I learned several comands, and how to run bash script from the Terminal. I'll tell you about everything.
+
+```
+#!/bin/bash.   <- this is what is called a shebang and it's used to indicate that a file is a bash script.
+```
+
+```
+$PATH   <- this is an envorimental variable that tells you the dirs of executable programs in your computer.
+```
+
+```
+tldr   <- this gives you a quick set of commands that's most likely what you're looking for i.e. tldr ls.
+```
+
+```
+history   <- useful for getting a history of your commands
+```
+
+I'll also learned that are different commands for achieving the same things.
+For example:
+- **find and fd**. Both of this commands will help you find files matching the given pattern.
+- **grep and rg**. search the current directory for a regex pattern. (file content)
+
+There are also some powerful combinations, one that comes to mind is:
+```
+history | grep 'python'
+```
+this will help you find all commands you have executed that include the word python.
+Phew. That was a lot of new commands for me.
