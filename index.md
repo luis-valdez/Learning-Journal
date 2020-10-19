@@ -6,3 +6,5 @@ You're welcome to join me in this journey :D.
 ***
 ### [Week 2](https://luis-valdez.github.io/Learning-Journal/week2)
 ### [Week 3](http:////luis-valdez.github.io/Learning-Journal/week3)
+### [Week 3](http:////luis-valdez.github.io/Learning-Journal/week4)
+
