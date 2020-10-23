@@ -10,6 +10,6 @@ You're welcome to join me in this journey :D.
 ### [Week 4](http:////luis-valdez.github.io/Learning-Journal/week4)
 ***
 
-# Monthlt Essays/Sketches
+# Monthly Essays/Sketches
 ### [Month 1](http:////luis-valdez.github.io/Learning-Journal/month1)
 
