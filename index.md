@@ -11,5 +11,5 @@ You're welcome to join me in this journey :D.
 ***
 
 # Monthlt Essays/Sketches
-### [Month 1](https://luis-valdez.gitub.io/Learning-Journal/month1)
+### [Month 1](http:////luis-valdez.github.io/Learning-Journal/month1)
 
