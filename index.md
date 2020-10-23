@@ -6,8 +6,9 @@ You're welcome to join me in this journey :D.
 ***
 # Weekly Essays/Sketches
 ### [Week 2](https://luis-valdez.github.io/Learning-Journal/week2)
-### [Week 3](http:////luis-valdez.github.io/Learning-Journal/week3)
-### [Week 4](http:////luis-valdez.github.io/Learning-Journal/week4)
+### [Week 3](https://luis-valdez.github.io/Learning-Journal/week3)
+### [Week 4](https://luis-valdez.github.io/Learning-Journal/week4)
+### [Week 5](https://luis-valdez.github.io/Learning-Journal/week5)
 ***
 
 # Monthly Essays/Sketches
