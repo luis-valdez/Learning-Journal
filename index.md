@@ -4,7 +4,12 @@ You're welcome to join me in this journey :D.
 
 
 ***
+# Weekly Essays/Sketches
 ### [Week 2](https://luis-valdez.github.io/Learning-Journal/week2)
 ### [Week 3](http:////luis-valdez.github.io/Learning-Journal/week3)
 ### [Week 4](http:////luis-valdez.github.io/Learning-Journal/week4)
+***
+
+# Monthlt Essays/Sketches
+### [Month 1](https://luis-valdez.gitub.io/Learning-Journal/month1)
 
