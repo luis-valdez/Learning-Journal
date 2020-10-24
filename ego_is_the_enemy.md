@@ -1,5 +1,7 @@
 # Ego is the Enemy Essay
 
+### [Go back to index](https://luis-valdez.github.io/Learning-Journal)
+
 ### Introduction
 In this essay I will be sharing my thoughts about the book “Ego is the Enemy” by Ryan Holiday. While doing so I’ll be sharing some of my own stories and how I believe they apply to the contents of the book. Enjoy!
 
