@@ -16,6 +16,6 @@ You're welcome to join me in this journey :D.
 
 ***
 # Books
-### [Ego is the Enemy]()
-### [Make it Stick]()
+### [Ego is the Enemy](http://luis-valdez.github.io/Learning-Journal/ego_is_the_enemy)
+### [Make it Stick](http://luis-valdez.github.io/Learning-Journal/make_it_stick)
 
