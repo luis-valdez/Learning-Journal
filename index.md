@@ -14,3 +14,8 @@ You're welcome to join me in this journey :D.
 # Monthly Essays/Sketches
 ### [Month 1](http:////luis-valdez.github.io/Learning-Journal/month1)
 
+***
+# Books
+### [Ego is the Enemy]()
+### [Make it Stick]()
+
