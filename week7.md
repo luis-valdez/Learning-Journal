@@ -1,8 +1,7 @@
 ### [Go back to index](https://luis-valdez.github.io/Learning-Journal/)
 
 ## Week 7 - 02/11/2020 to 06/11/2020
-This week we're working in the phase of bulinding something from scratch and i'm learning a lot from this experience. The reason of this is because we're a team of 7 people were everyone needs to be involved in a little bit of everything. So basically in our team we're trying to avoid specialists to keep a low [bus factor]
-(https://en.wikipedia.org/wiki/Bus_factor).
+This week we're working in the phase of bulinding something from scratch and i'm learning a lot from this experience. The reason of this is because we're a team of 7 people were everyone needs to be involved in a little bit of everything. So basically in our team we're trying to avoid specialists to keep a low [bus factor](https://en.wikipedia.org/wiki/Bus_factor).
 The overview represents the things that sticked with me throughout the week.
 
 ### Overview
