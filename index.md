@@ -11,6 +11,8 @@ You're welcome to join me in this journey :D.
 ### [Week 5](https://luis-valdez.github.io/Learning-Journal/week5)
 ### [Week 6](https://luis-valdez.github.io/Learning-Journal/week6)
 ### [Week 7](https://luis-valdez.github.io/Learning-Journal/week7)
+### [Week 8](https://luis-valdez.github.io/Learning-Journal/week8)
+
 ***
 
 # Monthly Essays/Sketches
