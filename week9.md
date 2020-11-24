@@ -27,7 +27,7 @@ I really value that this happened with my team, and I'm aware that this will not
 
 ***
 ### Meetings are fundamental for remote work, but...
-I can't concieve remote work without meetings. They are just way to helpful to communicate and set the direction of the project. I just think that there was some times where I thought that we were spending too much time analyzing over and over one detail that would be best to wait to discuss. Or maybe we stayed as a whole team to do one task that could be done by one or two people. I think mostly this was a rookie mistake from us and maybe I realized too late that I could have communicated this to my team. But I will have it in mind for my next team project.
+I can't concieve remote work without meetings. They are just way too helpful to communicate and set the direction of the project. I just think that there was some times where I thought that we were spending too much time analyzing over and over one detail that would be best to wait to discuss. Or maybe we stayed as a whole team to do one task that could be done by one or two people. I think mostly this was a rookie mistake from us and maybe I realized too late that I could have communicated this to my team. But I will have it in mind for my next team project.
 
 ***
 ### Antifragile
