@@ -32,5 +32,5 @@ I can't concieve remote work without meetings. They are just way too helpful to 
 ***
 ### Antifragile
 Fragile is something that breaks or gets damaged when bad things happen to it. Antifragile is something that gets better with the difficulties that it faces.
-This past month I felt like I had the whole world on my shoulders, but now that It's almost over and there is no more stress I realize how much I have grown personally and profesionally. You can't get more antifragile than that.
+This past month I felt like I had the whole world on my shoulders. It was just too much to handle, too many deliveries, too many bugs, too many features and not so much time. Now it's almost over and there is no more stress I realize how much I have grown personally and profesionally. You can't get more antifragile than that.
 I still have a lot to learn. But I think that I'm in the right path.
