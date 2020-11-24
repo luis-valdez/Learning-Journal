@@ -1,3 +1,8 @@
+
+# Week 8 Sketch
+
+### [Go back to index](http://luis-valdez.github.io/Learning-Journal)
+
 This past month has been a real roller coaster ride. It's the end of the phase Build Something From Scratch. And as the name says, I had a chance to work with a team to build a system from the ground. This is something that I've done before but only as a school project, but this felt way more real and serious.
 I learned quite a lot of things from this past week, so let's begin.
 
