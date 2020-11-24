@@ -15,7 +15,7 @@ I learned quite a lot of things from this past week, so let's begin.
 
 ***
 ### Communication is key. Own your sh!t. - Optimism Bias.
-This week we made a huge mistake. We didn't finished the work that we were supposed to deliver. But that wasn't the real problem, the real issue was that we didn't communicate it to the client with enough time.
+This week we made a huge mistake. We didn't finish the work that we were supposed to deliver. But that wasn't the real problem, the real issue was that we didn't communicate it to the client with enough time.
 After the presentation demo I felt awful because I had worked so hard and still the results that I wanted weren't there. 
 From that point I tried to understood what happened to correct my mistakes. And the answer was sitting as a link in my email.
 There is a video that we had to watch from this month homework that talked about this particular topic. Basically we tend to overstimate the positive things, and in this case we overestimated what we could deliver. And while doing so we waited until the last possible minute to realize that it wasn't possible anymore.
