@@ -22,8 +22,8 @@ There is a video from that we had to watch from this month homework that talked 
 
 ***
 ### Keeping the right attitude is everything
-There was a moment during the week when I think that every member of my team, inculding me, felt awful. It was a feeling of frustration and tiredness. But despite all those negative feelings we joked our way trough it, we didn't started with the blame game and I really liked it. We made a horrible situation into a not so bad one, just by staying together as a team.
-I really value that this happened with my team, and I'm aware that this will not always be the case because I can't control how other people think. But it was really nice to discover what a group of people can achieve when everyone is on the same page.
+There was a moment during the week when I think that every member of my team, inculding me, felt awful. It was a feeling of frustration and tiredness. But despite all those negative feelings we joked our way trough it, we didn't started with the blame game and because of that I'm proud of us as a team. We made a horrible situation into a not so bad one, this gave me a real sense of camaraderie.
+I really value that this happened with my team, but I'm aware that this will not always be the case because I can't control how other people think. But it was really nice to discover what a group of people can achieve when everyone is on the same page.
 
 ***
 ### Meetings are fundamental for remote work, but...
