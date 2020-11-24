@@ -9,7 +9,7 @@ I learned quite a lot of things from this past week, so let's begin.
 ### Overview
 - Communication is key. Own your sh*t.
 - Optimism Bias
-- Keeping the attitude is everything
+- Keeping the right attitude is everything
 - Meetings are fundamental for remote work, but...
 - AntiFragile
 
@@ -21,7 +21,7 @@ From that point I tried to understood what happened to correct my mistakes. And 
 There is a video from that we had to watch from this month homework that talked about this particular topic. Basically we tend to overstimate the positive things, and in this case we overestimated what we could deliver. And while doing so we waited until the last possible minute to realize that it wasn't possible anymore.
 
 ***
-### Keeping the attitude is everything
+### Keeping the right attitude is everything
 There was a moment during the week when I think that every member of my team, inculding me, felt awful. It was a feeling of frustration and tiredness. But despite all those negative feelings we joked our way trough it, we didn't started with the blame game and I really liked it. We made a horrible situation into a not so bad one, just by staying together as a team.
 I really value that this happened with my team, and I'm aware that this will not always be the case because I can't control how other people think. But it was really nice to discover what a group of people can achieve when everyone is on the same page.
 
