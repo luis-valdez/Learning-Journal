@@ -1,4 +1,4 @@
-# Week 8 Sketch
+# Week 8
 
 ### [Go back to index](http://luis-valdez.github.io/Learning-Journal)
 
