@@ -32,4 +32,5 @@ Once a node has joined a cluster it’s registered in the cluster state, which i
 	* all cluster-level settings
 	* information about the indices in the cluster, including their mappings and settings
 	* the locations of all the shards in the cluster.
+	
 All this information can be found in the `ClusterState.java` file.
