@@ -2,10 +2,7 @@
 ​
 **What is a Lambda?**
 According to O'Reilly book 'Java in a Nutshell', the definition of a lambda goes like this:
->A lambda expression is essentially a function that does not have a name, and can be
-treated as a value in the language. As Java does not allow code to run around on its
-own outside of classes, in Java, this means that a lambda is an anonymous method
-that is defined on some class (that is possibly unknown to the developer).
+>A lambda expression is essentially a function that does not have a name, and can be treated as a value in the language. As Java does not allow code to run around on its own outside of classes, in Java, this means that a lambda is an anonymous method that is defined on some class (that is possibly unknown to the developer).
 ​
 The synax of the lambda function looks like this:
 ```java
