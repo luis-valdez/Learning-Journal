@@ -9,8 +9,8 @@ Of course I had previously heard about OpenSource, but I had never actually took
 Is a software project that has its codebase out in the open and anyone can download the code, read it, make modifications, and if you're dedicated enough; contribute to it. There are many great projects that are widely used that are OS like TensorFlow and Django.
 
 **Why should you contribute to OpenSource?**
-At first the idea of contributing to OS can seem crazy to some people. Because well you're working for a project that is not paying you with money.
-But the rewards that an OS give you are from a different kind, if you're a Junior dev like me it helps you a lot to get experience. Specially working with big projects, because so far when I work in code it's usually code I built and that I know. With this is a change of paradigm, I start with a codebase that is already built and I have to understand how it works. It's a great exercise.
+At first the idea of contributing to OS can seem crazy to some people. Because well you're working for a project that is not paying you money.
+But the rewards that an OS give you are from a different kind, if you're a junior developer like me, you gain plenty of experience. Specially working with big projects, because so far when I work in code it's usually code I built and I'm familiar with. It represents a change of paradigm, I start with a codebase that is already built and I have to understand how it works. It's a great exercise.
 
 Now let's say that you decide you want to contribute to a project.
 
