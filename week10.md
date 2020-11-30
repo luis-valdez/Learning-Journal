@@ -11,6 +11,7 @@ Is a software project that has its codebase out in the open and anyone can downl
 **Why should you contribute to OpenSource?**
 At first the idea of contributing to OS can seem crazy to some people. Because well you're working for a project that is not paying you money.
 But the rewards that an OS give you are from a different kind, if you're a junior developer like me, you gain plenty of experience. Specially working with big projects, because so far when I work in code it's usually code I built and I'm familiar with. It represents a change of paradigm, I start with a codebase that is already built and I have to understand how it works. It's a great exercise.
+Another good reason is that it actually makes you feel part of the software you're using. You're annoyed by some bug? Well, it's your opportunity to fix it. You get a sense of pride and you improve somebody else's experience. Win win scenario.
 
 Now let's say that you decide you want to contribute to a project.
 
