@@ -24,3 +24,14 @@ My advice is select a project based in three things.
 3. Look for a label 'Good First issue', it's a sign that the projects accepts newcomers.
 
 You'll have to surf trough a lot of projects to find one that suits those 3 things. Happy OS hunting.
+
+**My personal experience with OS**
+The steps I just described you I experienced them myself this past week.
+Finally I found one project I will be working on. But before finding it, I worked on a exercise that consists of formulating a question of an OS project or programming language of something you would like to know, then dive in the code to get the answer. It's was pretty challenging exercise for me, but once you get the answers you feel a Sherlock Holmes vibe.
+Here you can find the questions/ansers for each one:
+
+[How do Lambda expressions work in Java?](https://luis-valdez.github.io/Learning-Journal/articles/java-lambdas)
+[How does JabRef creates new articles?](https://luis-valdez.github.io/Learning-Journal/articles/jabref-article)
+[How a node is registered in a cluster (ElasticSearch)?](https://luis-valdez.github.io/Learning-Journal/articles/elastic-search)
+
+From this 3 questions I sticked with JabRef project, and I'm currently working in this [issue](https://github.com/JabRef/jabref/issues/6959). Basically I'm trying to fix a simple bug in the app. So far I have been getting familiar with the project and how it works. My goal for next week is to close the issue and make my first OS contribution!
