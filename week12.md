@@ -70,11 +70,22 @@ $ git merge upstream/master
 $ git push
 ```
 I won't dive deep into this steps because it's already very well detailed in [this tutorial.](https://digitaldrummerj.me/git-syncing-fork-with-original-repo/#:~:text=In%20order%20to%20pull%20the,repo%20as%20an%20upstream%20repository.&text=You%20are%20now%20ready%20to,to%20the%20your%20forked%20repository.)
+
+**Bonus:** If you type `stars:10..200` in Github search bar it will give you a filter of repositories that are between 10 and 200 stars. This is very useful for finding underground OS projects. You can throw a couple of keywords you're interested in and a language to make it more specific.
 ***
-### Positive Results
+### Successes
+- Found a great new repository where I expect to make several contributions.
+- Had some great discussions with the authors of the project.
+- Filled a lot of gaps in my Java knowledge.
+- Made one Pull Request.
 
 ***
-### Negative Results
+### Failures
+- Spent way too much time searching for repositories.
+- I was demoralized for a couple of days for my lack of contributions.
+- Didn't organize very well.
 
-
-
+***
+### Conclusions
+This past week has been one of the most challenging of the academy I think. Because I had a blocker that I didn't know how to overcome. I couldn't find an issue to work on. When you begin in Open Source they tell you that you will work for free, so naturally I expected that there would be a lot of work to be done. And indeed there is but, it's not as easy as you'd expect to get it. Or better said it's not easy to be assigned to an issue where you feel qualified and there is no one else willing to do it.
+To be honest I still don't have a great strategy for someone who would be asking for advice in coming to the Open Source world. I just had to power through. Remind myself that If I kept looking I would find something, and that's how I did it.
