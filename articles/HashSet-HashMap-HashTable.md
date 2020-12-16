@@ -1,4 +1,5 @@
 # HashSet vs HashMap vs HashTable
+The goal of this article is to get a general idea of each one of them, understand their similarities and differences.
 
 ## HashSet
 HashSet is part of the Java Collection Framework. It extends from the interface Set. This means that it is a collection which has no duplicate elements.
@@ -81,3 +82,24 @@ Here is how we would do that with a HashMap:
     }
 ```
 
+
+## HashTable
+Here is where it gets interesting. What if I tell you that we can achieve exactly the same that we did in with the HashMap, but using a HashTable. Just by changing the type of object:
+```java
+    public static void main(String[] args) {
+        
+        // Notice we're now using a Hashtable instead of a HashMap
+        Hashtable <String, Integer> phoneDirectory  = new Hashtable();
+        phoneDirectory.put("Bob", 661234567);
+        phoneDirectory.put("Alice", 661234567);
+        phoneDirectory.put("Elizabeth", 12345678);
+
+        System.out.println(phoneDirectory.get("Alice")); // Prints 661234567
+    }
+```
+
+|                 | HashSet     | HashMap   |HashTable  |
+| -----------     | ----------- |-----------|-----------|
+| Implements      | Title       |           |           |
+| Duplicates      | Text        |           |           |
+| Insertion method|             |           |           |
