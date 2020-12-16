@@ -56,10 +56,28 @@ public boolean add(E e) {
 ## HashMap
 We already saw how the HashSet works and that it is backed by a `HashMap` internally. So now let's see what is a HashMap and how does it work.
 
+As its name says a HashMap is a `Map`, this means that it's a data structure that maps together a pair of two things: a `key` and a `value`. Each key is mapped to exactly one value, and we can use this key to retrieve the corresponding value.
 
+Two important things to remember about HashMaps are:
 
-|                 | HashSet     | HashMap   |HashTable  |
-| -----------     | ----------- |-----------|-----------|
-| Implements      | Title       |           |           |
-| Duplicates      | Text        |           |           |
-| Insertion method|             |           |           |
+1. Keys are unique.
+2. Values can be repetead.
+
+Let's look at an example. Imagine we want to create a phone directory where we will store a name of a person and their phone number. To do this we will store the person's name as a key and their phone as the correspondent value.
+
+Here is how we would do that with a HashMap:
+```java
+    public static void main(String[] args) {
+        // We declare a HashMap that has String keys and Integer values
+        HashMap<String, Integer> phoneDirectory  = new HashMap<>();
+        // We add data to our phone directory
+        phoneDirectory.put("Bob", 661234567);
+        phoneDirectory.put("Alice", 661234567);
+        phoneDirectory.put("Elizabeth", 12345678);
+
+        // We can retrieve the value from any of them providing the key
+        
+        System.out.println(phoneDirectory.get("Alice")); // Prints 661234567
+    }
+```
+
