@@ -1,9 +1,9 @@
-# 1. HashSet vs HashMap vs HashTable
+# HashSet vs HashMap vs HashTable
 The goal of this article is to get a general idea of each one of these data structures, understand their similarities and differences.
 
 To do so, we will look at some code snippets of each one of them to demonstrate their functionality and also we will focus on how they compare to each other.
 
-## 2. HashSet
+## 1. HashSet
 HashSet is part of the Java Collection Framework. It extends from the interface Set. This means that it is a collection which has no duplicate elements.
 
 You can think of a HashSet as a list that has unique items and allows you to quickly verify if one of the items is present by taking advantage of the `hashCode()` functionality.
@@ -33,7 +33,7 @@ We can accomplish this using a HashSet:
 
 Now that we have some notion about what a HashSet can do, let's dig in deeper.
 
-### 2.1 **How does HashSet works under the hood?**
+### 1.1 **How does HashSet works under the hood?**
 
 Here's how the constructor of `HashSet.java` looks like:
 ```java
@@ -56,7 +56,7 @@ The main takeaways you should consider from this code snippet are:
 - It uses the `.put()` method of a `map` to add a new element.
 - The second parameter in the put method, `PRESENT` is just a dummy value declared in the `HashSet.java` class.
 
-## 3. HashMap
+## 2. HashMap
 We already saw how the HashSet works and that it is backed by a `HashMap` internally. So now let's see what is a HashMap and how does it work.
 
 As its name says a HashMap is a `Map`, this means that it's a data structure that maps together a pair of two things: a `key` and a `value`. Each key is mapped to exactly one value, and we can use this key to retrieve the corresponding value.
