@@ -58,4 +58,4 @@ $ git config --global user.email "MY_NAME@example.com"
 - I'm learning a lot of Java details I didn't know
 ## Negative Outcomes
 - I have several contributions, and because of the mistake I made with my github credentials, I'm not appearing as a contributor yet.
-- I haven't answered the questions Luis' made me from this phase. I'll take care of it this week.
+- I haven't answered the questions Luis asked me from this phase. I'll take care of it this week.
