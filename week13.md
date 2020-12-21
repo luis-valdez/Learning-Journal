@@ -2,6 +2,8 @@
 
 This was my 13th week working in the Academy internship, and as always there was a lot of learning involved. Let's begin.
 
+### [Go back to index](http://luis-valdez.github.io/Learning-Journal)
+
 ## Java Learnings
 
 ### Dependency Injection
