@@ -131,7 +131,10 @@ public static void main(String [] args){
 	System.out.println(myPrinter.greet("Luis","Valdez")); //prints Hi! Luis Valdez
 }
 ```
-**Note**: Here the parentheses are obligatory because we have more than one parameter, if we try too omit them we would get an error
+**Notes**: 
+- Here the parentheses are obligatory because we have more than one parameter, if we try too omit them we would get an error.
+- The body of the lambda represents the return value, which is a String.
+- We have to meet with the conditions of the interface, our lambda must have two parameters and a return value of the type String. Otherwise we will get an error.
 
 ### 6. Conclusion
 Lambdas are a extensive subject, but you don't need to be an expert to actually take advantage of them and start using them. This article aimed for the main functionality of Lambda Expressions, which will get you started.
