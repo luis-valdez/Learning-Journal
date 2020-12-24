@@ -7,8 +7,8 @@ ElasticSearch allows you to store, search, and analyze huge volumes of data quic
 ## **2. What is a node?**
 A node is a running instance of ElasticSearch which belongs to a cluster. Usually a node represents a single server.
 There are several type of node roles, and a node can have multiple roles at the same time. The most important ones are:
-	 * Master Node: Controls the cluster
-	 * Data Node: Holds data and performs CRUD operations
+- Master Node: Controls the cluster
+- Data Node: Holds data and performs CRUD operations
 
 ## **3. What is a cluster?**
 A collection of connected nodes.
