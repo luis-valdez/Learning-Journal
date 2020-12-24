@@ -28,9 +28,9 @@ This is handled in the java class  `MasterNodeReadRequest.java` .
 
 ## **7. Cluster State**
 Once a node has joined a cluster it’s registered in the cluster state, which is the metadata that represents the state of the whole cluster. It includes:
-	* the set of nodes in the cluster
-	* all cluster-level settings
-	* information about the indices in the cluster, including their mappings and settings
-	* the locations of all the shards in the cluster.
+- The set of nodes in the cluster
+- All cluster-level settings
+- Information about the indices in the cluster, including their mappings and settings
+- The locations of all the shards in the cluster.
 	
 All this information can be found in the `ClusterState.java` file.
