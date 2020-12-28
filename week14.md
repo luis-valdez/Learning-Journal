@@ -6,7 +6,7 @@ This week was the last one of the Open Source phase of the internship. For me th
 
 On the good side, I had the chance to learn a lot from how they organize and manage in Open Source projects. It's really different from builing your own project from scratch, to get involved in a mature project with its own rules and conventions. I think it was a really valuable experience because it gave me the chance to contribute in projects with talented people from different cultures.
 
-From the technical side, this week I had the chance to learn a couple of things:
+This is my main takeaway from this week:
 
 ### How to make a good PR
 On my [last Pull Request](https://github.com/meilisearch/meilisearch-java/pull/95) I worked on my biggest contribution, basically it was implementing a new feature. This was way bigger than my past contributions. So I tried my best to make a good PR that was understandable and that everyone that read it had a good notion of what it was.
