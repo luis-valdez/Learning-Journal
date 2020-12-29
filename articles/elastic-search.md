@@ -34,3 +34,61 @@ Once a node has joined a cluster it’s registered in the cluster state, which i
 - The locations of all the shards in the cluster.
 	
 All this information can be found in the `ClusterState.java` file.
+
+## 8. How does the node use unicast to discover an existing cluster?
+Elasticsearch implements something called Zen discovery which is the built-in, default, discovery module. It uses unicast and file based discovery.
+Zen discovery uses a list of `seed` nodes in order to start off the discovery process. When it starts, or when it’s electing a new master node, it iterates trough the list of nodes and try to connect to each one of them. It also holds up a conversation with each node and instruct them to find other nodes in order to get a complete picture of the cluster.
+
+### 8.1 What information does it send?
+It sends a static list of hosts for use as seed nodes. These hosts can be specified as hostnames or IP addresses
+
+## 9. How does the cluster select a master node?
+It’s done by a process named `Discovery` by which the cluster formation module finds other nodes with which to form a cluster. This process runs when you start an Elasticsearch node or when a node believes the master node failed and continues until the master node is found or a new master node is elected.
+
+## 9.1 What code is executed?
+From my understanding the following code is executed, whis is present in the class `ElasticSearchCluster` in the method `commonNodeConfig`
+```java
+private void commonNodeConfig() {
+    final String nodeNames;
+    if (nodes.stream().map(ElasticsearchNode::getName).anyMatch(name -> name == null)) {
+        nodeNames = null;
+    } else {
+        nodeNames = nodes.stream().map(ElasticsearchNode::getName).map(this::safeName).collect(Collectors.joining(","));
+    }
+    ElasticsearchNode firstNode = null;
+    for (ElasticsearchNode node : nodes) {
+        // Can only configure master nodes if we have node names defined
+        if (nodeNames != null) {
+            if (node.getVersion().onOrAfter("7.0.0")) {
+                node.defaultConfig.keySet()
+                    .stream()
+                    .filter(name -> name.startsWith("discovery.zen."))
+                    .collect(Collectors.toList())
+                    .forEach(node.defaultConfig::remove);
+                node.defaultConfig.put("cluster.initial_master_nodes", "[" + nodeNames + "]");
+                node.defaultConfig.put("discovery.seed_providers", "file");
+                node.defaultConfig.put("discovery.seed_hosts", "[]");
+            } else {
+                node.defaultConfig.put("discovery.zen.master_election.wait_for_joins_timeout", "5s");
+                if (nodes.size() > 1) {
+                    node.defaultConfig.put("discovery.zen.minimum_master_nodes", Integer.toString(nodes.size() / 2 + 1));
+                }
+                if (node.getVersion().onOrAfter("6.5.0")) {
+                    node.defaultConfig.put("discovery.zen.hosts_provider", "file");
+                    node.defaultConfig.put("discovery.zen.ping.unicast.hosts", "[]");
+                } else {
+                    if (firstNode == null) {
+                        node.defaultConfig.put("discovery.zen.ping.unicast.hosts", "[]");
+                    } else {
+                        firstNode.waitForAllConditions();
+                        node.defaultConfig.put("discovery.zen.ping.unicast.hosts", "[\"" + firstNode.getTransportPortURI() + "\"]");
+                    }
+                }
+            }
+        }
+        if (firstNode == null) {
+            firstNode = node;
+        }
+    }
+}
+```
