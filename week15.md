@@ -15,3 +15,4 @@ This past week I dedicated an important ammount of time trying to summarize conc
 Everyone in the world of programming has been told that Data Structures are a really important part of the skillset of a programmer. And it makes a lot of sense. We manipulate data, we move it around and process it. And of each of these actions there's always a data structure that has advantages or disadvantages. So knowing which tools you have availabe for the job will help you choose one of them to get the work done.
 
 This past week I dedicated a few hours revisiting some concepts that I already studied in the past. Like `Arrays`, `Linked Lists` and `Double Linked Lists`. And I came up with this chart to visualize some keypoints about them:
+![](https://luis-valdez.github.io/Learning-Journal/images/array-linkedlists-chart.png)
