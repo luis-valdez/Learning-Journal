@@ -1,3 +1,33 @@
+## 1. Strings in Java
+- Strings in Java are not a primitive data type
+- Java has a class named String
+- All Strings that we implement are instances of said class
+- Strings are immutable, their values remain constant after they're created
+
+### 1.1 String Pool
+The String pool is a special memory region, located in the Heap, where Strings are allocated. The reason that the String Pool exists is to try to optimize memory. For example if we create the following strings
+```java
+String s1 = "Luis"
+String s2 = "Luis"
+```
+The JVM will optimize memory by storing only one copy of the value `Luis`, so `s1` and `s2` can reference the same value.
+
+### 1.2 Different ways of initializing a String
+There is something courious about strings, and that is peculiar. And that is that you can initialize them in 2 different ways.
+```java
+String s1 = "Luis";
+String s2 = new String("Luis");
+```
+### 1.3 Comparing Strings
+There is a difference if you compare Strings using `==` or the `.equals` operator. And we can appreciate that in this example.
+```java
+String s1 = "Luis";
+String s2 = new String("Luis");
+
+if(s1 != s2) System.out.println("True, because == will comparate memory reference instead of actual values");
+if(s1.equals(s2)) System.out.println("True, because .equals is comparing actual values instead of memory reference");
+```
+
 ### Array vs ArrayList in Java
 |                 | Array                                                                                                                                    | ArrayList                                                                                                                                                    | Details                                                                                                                                                   |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
