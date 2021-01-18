@@ -52,3 +52,6 @@ if(s1.equals(s2)) System.out.println("True, because .equals is comparing actual 
 3. Team: Designers and devs that complete the storires in the backlog.
 
 ### Artifacts
+1. Product Backlog: The master to-do list which contains all the user-stories, fixes, features, etc.
+2. Sprint backlog: It's a chunk of the Product Backlog, which contains what's expected to achieve during this Sprint.
+3. Increment: Usable end product from a Sprint.
