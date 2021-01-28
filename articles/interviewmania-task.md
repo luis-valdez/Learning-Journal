@@ -28,7 +28,7 @@ The absolute difference between the positions of the two 2s is 3, which is more 
 
 Guaranteed constraints: 
 0 ≤ nums.length ≤ 55000, 
--231 - 1 ≤ nums[i] ≤ 231 - 1. 
+-2^31 - 1 ≤ nums[i] ≤ 2^31 - 1. 
 
 [input] integer k 
 
