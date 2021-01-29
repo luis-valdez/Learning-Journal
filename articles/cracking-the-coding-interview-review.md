@@ -50,3 +50,23 @@ For me it was never a secret that this was something that I had to learn. When I
 So reading this chapter was actually a great opportunity to take a dive into this subject. I'm still not an expert by any means.
 But I feel that by reading this chapter and doing some exercises I have a more solid grasp and I can estimate the complexity of an algorithm correctly *most* of the times.
 
+## Technical Questions
+As I already mentioned in this essay, interviews are a skill of its own. And technical questions might be the hardest part to master from interviews.
+
+The book throws a bunch of interesting tips and knowledge that will get you trough your interview. But of course it's not enough by just reading, the number one advice is: practice.
+Another things to improve in technical interviews:
+1. Know your datastructures, a couple of basic algorithms and core CS concepts. (There's a useful table for this in the book)
+2. When you practice do it as rudimentary as possible to really make yourself think. Get rid of the fancy IDE and go back to paper.
+3. When solving a problem try to really understand it (make questions), before moving to anything else. Pay attention to any details, they're given to you for a reason
+4. Always use examples and walk trough the examples
+
+## The Offer and Beyond
+This was also a really interesting chapter, were the author explores several thigns to have in consideration when you're finishing with interviews.
+
+For starters you want to build good relationships with the company no matter if you don't get an offer or if you reject it, either way, making a good impression won't hurt you.
+
+Another cool thing is that, as young guy, I've never really thought about everything I have to take in consideration (besides the salary) to consider a company financially wise. So in this chapter several factors are explored that I think will help me in the future where I can choose from more than one offer.
+
+Negotiation is also a key factor for your salary, basically negotiation are uncomfortable for most people (including me), but they can offer great benefits when done. I think it's really worth learning a few things before engaging in this to make the most out of it.
+
+And finally, once you're in the job make sure you have a plan for how long you want to be there. And where do you want to go next. I think this is specially important if you're trying to achieve any professional goal, because most likelt, eventually you'll have to change your job to keep growing.
