@@ -1,12 +1,42 @@
 # Your Personal Brand
 
 ## Interviews, interviews and more interviews
+A big part of building your personal brand is related of how others perceive you and your skills. Great part of that perception can come from interviews. In my case right now I'm preparing for an interview with a real client.
+
+To do so I have been practicing questions out loud, english is not my first language. So answering questions in this fashion really helps me improve my pronunciation and my conversational skills.
+
+This past month I've also learned about the importance of behavioral questions, which talk a lot about you as a person. So i'm not just focusing on improving my technical skills, but also be better at answering this type of questions.
+
+### Coding questions
+During my first semester in university there was a lab called CSI, it was run by students of higher semesters which organized activities. One of those activities was something called "CSI Code" which was two hours dedicated for solving really simple white interview problems. I remember solving really simple problems like Fibonacci sequence and feeling really great about it!
+
+Since then I casually picked up a leet code problem every now and then just for fun. But this past month I started taking it more serious since I might get a problem during an interview. I feel like I've really stepped up my game, I'm not a pro yet, but I'm very sure I've improved.
+
+Right now my process for solving a problem looks a little bit like this:
+1. Read the problem until I understand it
+2. Think of a solution, usually is the brute force solution (Remember to always think outloud)
+3. Walk trough that solution with an example
+4. What complexity does that solution have? Probably can be improved
+5. Repeat step 3 with the new improved solution
+6. Write the Java code in a sheet of paper or in my whiteboard
+7. Run trough the code step by step with 1 or 2 cases
+
+That's generally the process I've been following for solving problems in HackerRank, Codesignal and leetcode.
 
 ## Building relationships
+An important part from having a personal brand is having a network of peers who are in the industry. A personal recommendation will always be more valuable than a stranger reaching out in LinkedIn.
 
-## Creating my CV
+I feel that the best way to achieve this, is by being your true self and building real human connections, and I'm very happy to say that I have done that during my time at the Academy :').
 
 ## Tips from an ex Navy Seal
+During this month there was a video about tips from an ex Navy Seal that is some sort of inspirational author.
+He gave some good and intersting tips about leadership and hard work. Personally I'm constantly struggling in my mind with the concept of meritocracy, which I believe this type of videos relies on.
+
+I'm a very lucky guy, I wasn't born in any extreme conditions where I didn't had something to eat or a bed to sleep. So I feel like I'm the last person that could say "just work harder" or "just do more".
+
+But as I say I'm conflicted, because I do believe that making an effort is important, so I believe that finding a balance between this two perspectives is important.
+
+Working hard helps you take opportunities when they present, but remember that not everyone has access to the same opportunities.
 
 ## The Inner Game of Tennis
 This is a really brilliant article that is done from a book.
