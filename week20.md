@@ -26,5 +26,5 @@ This is a fragment of a comment that I read long ago in Reddit and I've been bel
 >Stop all tutorials right now, and until the end of this month dedicate your time to ONLY these two things:
 >1.	⁠Pump out a ridiculous amount of sh!tty simple programs.
 >2.	⁠Severely reduce your standards for the type of projects you find "interesting". If an idea sounds >interesting to you, it's too complicated.
->
+
 This helped me in my early years in programming and I've been carrying it since then. It transmits a very simple but powerful idea: Start simple and be constant, eventually you'll move on to the cool stuff.
